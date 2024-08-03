@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@clickhouse/client-web": "^1.4.0",
+    "ra-core": "^5.1.0"
+  }
+}
